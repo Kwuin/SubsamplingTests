@@ -1,1 +1,5 @@
 
+[submodule "viabel"]
+	path = viabel
+	url = git@github.com:Kwuin/viabel.git
+	branch = JaxSubsampling
